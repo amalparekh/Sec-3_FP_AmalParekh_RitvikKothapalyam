@@ -4,7 +4,7 @@ Pennsylvania PSSA Science Assessment Analysis. A data analysis project examining
 
 ## Overview
 
-This project examines over 15 years of PSSA science test score data to better understand how Pennsylvania students' science proficiency has changed over time. I analyzed how students are distributed across the four proficiency levels—Advanced, Proficient, Basic, and Below Basic—to identify meaningful trends in their performance. The goal was to determine whether Pennsylvania students are improving in science, facing new challenges, or maintaining consistent performance levels. These findings can help inform educational policy decisions and highlight specific areas where students may need additional support to succeed.
+This project examines over 15 years of PSSA science test score data to better understand how Pennsylvania students' science proficiency has changed over time. I analyzed how students are distributed across the four proficiency levels Advanced, Proficient, Basic, and Below Basic to identify meaningful trends in their performance. The goal was to determine whether Pennsylvania students are improving in science, facing new challenges, or maintaining consistent performance levels. These findings can help inform educational policy decisions and highlight specific areas where students may need additional support to succeed.
 
 ## Data Sources and Acknowledgements
 
